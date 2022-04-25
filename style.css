@@ -29,7 +29,7 @@ body{
   position: relative;
   width: 90%;
  overflow: hidden;
- margin: 2% auto 3% auto;
+ margin: .5% auto 0.5% auto;
    
 }
 
@@ -51,7 +51,7 @@ body{
 }
 to{
    top: 0;
-   left: 16%;
+   left: 8%;
 }
 }
 
@@ -144,7 +144,7 @@ to{
   }
   to{
      top: 0;
-     left: 5%;
+     left: -3%;
   }
   }
   
@@ -166,7 +166,7 @@ to{
   }
   to{
     top: 1%;
-     left: 25%;
+     left: 22%;
   }   
   }
   
