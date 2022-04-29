@@ -3,9 +3,7 @@ body{
   animation-duration: 120s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
-
 }
-
 
 @keyframes bg-animation {
 
@@ -16,13 +14,9 @@ body{
   100% {background-color: #91a6bb;}
 }
   
-
-
 .text-justify{
     text-align: justify;
 }
-
-
 
 .bannerWrapper{
  box-sizing: border-box;
@@ -105,15 +99,15 @@ to{
 }
 
 .imgHover:hover {
-      transform: scale(1.14);
+      transform: scale(1.04);
       opacity: 0.9; 
 }
 
-.Hoverbanner{
+.hoverbanner{
   transition:all .5s;
 }
 
-.Hoverbanner:hover {
+.hoverbanner:hover {
   transform: scale(1.04);
 }
 
@@ -191,6 +185,5 @@ to{
     top: -8%;
      left: 50%;
   }   
-  }
-  
+  }  
    }
